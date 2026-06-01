@@ -2,6 +2,16 @@
      GITHUB PROFILE README - WORLD-CLASS EDITION
      Icons via shields.io badges | No emojis | Pure professional
      ============================================================ -->
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 
 <!-- ─── VISITOR COUNTER ─── -->
 <div align="right">
@@ -417,27 +427,8 @@ Strong engineers are built from more than code. These disciplines sharpen the th
 
 ## Coding Activity
 
-<!--
-  WakaTime Widget - requires WakaTime account + VS Code extension configured.
-  Replace YOUR_WAKATIME_USERNAME below after setup.
--->
-
-## Coding Activity
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sivanandh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&layout=compact" alt="Wakatime Stats" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
@@ -446,12 +437,17 @@ Strong engineers are built from more than code. These disciplines sharpen the th
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK)
+<a href="https://github.com/Sivanandh10" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sivanandh-cc" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sivanandhcc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -470,9 +466,44 @@ Strong engineers are built from more than code. These disciplines sharpen the th
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" />
 </div>
 
-<!-- ─── SEO KEYWORDS (hidden, improves discoverability) ─── -->
+<!-- SEO KEYWORDS -->
+
 <!--
-  software engineer, full stack developer, devops, cloud engineer,
-  react, node.js, typescript, python, aws, kubernetes, docker,
-  open source, xebia, india, tech community, engineering leadership
+software engineer,
+full stack developer,
+web developer,
+devops enthusiast,
+cloud computing,
+java,
+javascript,
+php,
+python,
+html,
+css,
+mysql,
+azure devops,
+terraform,
+docker,
+linux,
+software development,
+frontend developer,
+backend developer,
+technology enthusiast,
+continuous learner,
+open source,
+github,
+software engineering,
+computer science,
+xebia,
+india,
+tech meetups,
+professional networking,
+developer community,
+chess,
+badminton,
+modern web technologies,
+artificial intelligence,
+product development,
+system design,
+career growth
 -->
