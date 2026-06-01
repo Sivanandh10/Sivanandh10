@@ -156,6 +156,40 @@ I am perpetually curious - whether exploring a new framework, reading a research
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117" />
 </div>
 
+### AI & Developer Productivity Tools
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SheCodes-E91E63?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Windsurf-00C853?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bolt.new-FF6F00?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
 ---
 
 ## Tools & Platforms
