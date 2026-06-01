@@ -257,22 +257,36 @@ I am perpetually curious - whether exploring a new framework, reading a research
 ## GitHub Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&icon_color=58A6FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0"/>
+
 </div>
+
+<br>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivanandh10&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Sivanandh10&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
 </div>
+
+<br>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivanandh10&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivanandh10&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivanandh10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Sivanandh10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+
+</div>
 ---
 
 ## Professional Growth
