@@ -258,9 +258,9 @@ I am perpetually curious - whether exploring a new framework, reading a research
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&icon_color=58A6FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
