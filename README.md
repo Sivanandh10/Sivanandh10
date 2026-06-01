@@ -31,12 +31,13 @@
 ## `$ whoami`
 
 ```yaml
-name        : "Your Name"
-role        : "Software Engineer @ Xebia"
-education   : "B.E. Computer Science Engineering"
-focus       : ["Full Stack Development", "DevOps", "Cloud Computing"]
-mindset     : "Engineering-first | Community-driven | Continuously learning"
-location    : "India"
+name : "Sivanandh C C"
+role : "Software Engineer @ Xebia"
+education : "B.E. Computer Science Engineering"
+focus : ["Full Stack Development", "DevOps", "Cloud Computing"]
+interests : ["Technology Meetups", "Networking", "Chess", "Badminton"]
+mindset : "Learn. Build. Share. Grow."
+location : "India"
 status      : "Open to impactful opportunities"
 ```
 
@@ -173,91 +174,85 @@ I am perpetually curious — whether exploring a new framework, reading a resear
 
 ## Featured Projects
 
-> Replace with your actual projects. Use the card structure below for each.
-
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project Alpha</h3>
+      <h3 align="center">GreenScape AI</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-alpha" target="_blank">
+        <a href="https://github.com/Sivanandh10/NASA-SPACE-APP-CHALLENGES-2025" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-0d6efd?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </div>
       <br/>
       <p align="center">
-        A full-stack web application with real-time features, authentication, and cloud deployment. Built to solve [problem statement].
+        AI-powered Urban Resilience Planner developed for NASA Space Apps Challenge 2025. The platform leverages geospatial intelligence, environmental analytics, and urban planning insights to help cities address urban heat islands and sustainability challenges.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/NASA%20Space%20Apps-0B3D91?style=flat-square" />
       </p>
     </td>
+
     <td width="50%">
-      <h3 align="center">Project Beta</h3>
+      <h3 align="center">Roomiess</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-beta" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-0d6efd?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        A DevOps automation toolkit that streamlines CI/CD pipeline configuration and infrastructure provisioning.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Gamma</h3>
-      <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-gamma" target="_blank">
+        <a href="https://github.com/Sivanandh10/Roomiess" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
       <br/>
       <p align="center">
-        An open-source developer utility that [description]. Designed with extensibility and developer experience in mind.
+        Modern TypeScript-based application focused on streamlined user experience, scalable architecture, and clean development practices. Built using contemporary frontend technologies.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Modern%20Web-181717?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-0d1117?style=flat-square" />
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
-      <h3 align="center">Project Delta</h3>
+      <h3 align="center">Movie Reviews</h3>
       <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project-delta" target="_blank">
+        <a href="https://github.com/Sivanandh10/movie-reviews" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
       <br/>
       <p align="center">
-        A cloud-native microservices architecture demonstrating patterns for scalable, resilient backend systems.
+        Lensmen-inspired minimalist movie review platform designed with a focus on clean UI, user experience, and modern web development principles.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI%2FUX-181717?style=flat-square" />
+        <img src="https://img.shields.io/badge/Responsive%20Design-0d1117?style=flat-square" />
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">Zomato Clone</h3>
+      <div align="center">
+        <a href="https://github.com/Sivanandh10/ZOMATO-Clone" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        Frontend recreation of the Zomato platform showcasing responsive design, modern UI implementation, and JavaScript-driven user interactions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive%20UI-181717?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## GitHub Analytics Dashboard
