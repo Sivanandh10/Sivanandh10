@@ -10,7 +10,7 @@
 
 <!-- ─── HERO BANNER ─── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=SIVANANDH%20C C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=16&descAlignY=62&descColor=8892b0&animation=fadeIn" width="100%" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=SIVANANDH%20CC&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=16&descAlignY=62&descColor=8892b0&animation=fadeIn" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
