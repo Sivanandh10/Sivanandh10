@@ -330,17 +330,6 @@ I am perpetually curious - whether exploring a new framework, reading a research
 
 ---
 
-## Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sivanandh&theme=github_dark&hide_border=true&layout=compact"/>
-
-</div>
-
-
----
-
 ## Professional Growth
 
 ```
@@ -445,20 +434,12 @@ Strong engineers are built from more than code. These disciplines sharpen the th
 
 | Milestone | Detail |
 |-----------|--------|
-| ![Xebia](https://img.shields.io/badge/Xebia-Software%20Engineer-0d1117?style=flat-square&logo=xing&logoColor=white) | Full-time Software Engineering role at a global tech consultancy |
+| ![Xebia](https://img.shields.io/badge/Xebia-Software%20Engineer-0d1117?style=flat-square&logo=xing&logoColor=white) | Software Engineering role at a global tech consultancy |
 | ![Degree](https://img.shields.io/badge/B.E.-Computer%20Science-0d1117?style=flat-square&logo=graduation-cap&logoColor=white) | Bachelor of Engineering in Computer Science |
 | ![OSS](https://img.shields.io/badge/Open%20Source-Active%20Contributor-181717?style=flat-square&logo=github&logoColor=white) | Consistent contributions to open-source repositories |
 | ![Community](https://img.shields.io/badge/Community-Active%20Member-181717?style=flat-square&logo=meetup&logoColor=ED1C40) | Regular presence at developer meetups and networking events |
 | ![Learning](https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-181717?style=flat-square&logo=amazonaws&logoColor=FF9900) | Ongoing cloud and DevOps certifications and hands-on projects |
 
-</div>
-
----
-
-## Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sivanandh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ---
