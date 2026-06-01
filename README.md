@@ -5,7 +5,7 @@
 
 <!-- ─── VISITOR COUNTER ─── -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SIVANANDH C C&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <!-- ─── HERO BANNER ─── -->
