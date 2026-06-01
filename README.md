@@ -258,17 +258,9 @@ I am perpetually curious - whether exploring a new framework, reading a research
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Sivanandh10&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -276,7 +268,7 @@ I am perpetually curious - whether exploring a new framework, reading a research
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivanandh10&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Sivanandh10&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -284,9 +276,29 @@ I am perpetually curious - whether exploring a new framework, reading a research
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sivanandh10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivanandh10&theme=github-compact&area=true&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sivanandh10&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sivanandh&theme=github_dark&hide_border=true&layout=compact"/>
+
+</div>
+
+
 ---
 
 ## Professional Growth
