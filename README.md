@@ -1,16 +1,16 @@
 <!-- ============================================================
-     GITHUB PROFILE README — WORLD-CLASS EDITION
+     GITHUB PROFILE README - WORLD-CLASS EDITION
      Icons via shields.io badges | No emojis | Pure professional
      ============================================================ -->
 
 <!-- ─── VISITOR COUNTER ─── -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=SIVANANDH_CC&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sivanandh10&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <!-- ─── HERO BANNER ─── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=YOUR%20NAME&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=16&descAlignY=62&descColor=8892b0&animation=fadeIn" width="100%" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=SIVANANDH%20C C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=16&descAlignY=62&descColor=8892b0&animation=fadeIn" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
@@ -31,25 +31,25 @@
 ## `$ whoami`
 
 ```yaml
-name : "Sivanandh C C"
+name : "SIVANANDH C C"
 role : "Software Engineer @ Xebia"
 education : "B.E. Computer Science Engineering"
 focus : ["Full Stack Development", "DevOps", "Cloud Computing"]
 interests : ["Technology Meetups", "Networking", "Chess", "Badminton"]
 mindset : "Learn. Build. Share. Grow."
 location : "India"
-status      : "Open to impactful opportunities"
+status : "Open to impactful opportunities"
 ```
 
 ---
 
 ## About Me
 
-I am a Software Engineer at **Xebia**, focused on building scalable, production-grade software with clean architecture and modern engineering practices. My work sits at the intersection of full-stack development, DevOps automation, and cloud infrastructure — with a deep interest in how software systems evolve from idea to production.
+I am a Software Engineer at **Xebia**, focused on building scalable, production-grade software with clean architecture and modern engineering practices. My work sits at the intersection of full-stack development, DevOps automation, and cloud infrastructure - with a deep interest in how software systems evolve from idea to production.
 
 Beyond the technical stack, I believe in the power of community. I actively attend tech meetups, participate in developer forums, share knowledge, and build meaningful connections with engineers, founders, and product thinkers. My goal is to grow not just as a strong individual contributor but as a technical leader who enables others to do their best work.
 
-I am perpetually curious — whether exploring a new framework, reading a research paper, or studying an innovative product's engineering decisions.
+I am perpetually curious - whether exploring a new framework, reading a research paper, or studying an innovative product's engineering decisions.
 
 ---
 
@@ -59,7 +59,7 @@ I am perpetually curious — whether exploring a new framework, reading a resear
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Primary-Full%20Stack%20Engineering-0d1117?style=for-the-badge&logoColor=white&logo=code" />
-      <p>Building production-ready web applications with modern frontend and backend architectures at Xebia.</p>
+      <p>Building production-ready web applications with modern frontend and backend architectures</p>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Exploring-Cloud%20%26%20DevOps-1a1f2e?style=for-the-badge&logoColor=white&logo=cloud" />
@@ -194,8 +194,7 @@ I am perpetually curious — whether exploring a new framework, reading a resear
         <img src="https://img.shields.io/badge/NASA%20Space%20Apps-0B3D91?style=flat-square" />
       </p>
     </td>
-
-    <td width="50%">
+<td width="50%">
       <h3 align="center">Roomiess</h3>
       <div align="center">
         <a href="https://github.com/Sivanandh10/Roomiess" target="_blank">
@@ -233,7 +232,7 @@ I am perpetually curious — whether exploring a new framework, reading a resear
       </p>
     </td>
 
-    <td width="50%">
+<td width="50%">
       <h3 align="center">Zomato Clone</h3>
       <div align="center">
         <a href="https://github.com/Sivanandh10/ZOMATO-Clone" target="_blank">
@@ -258,20 +257,20 @@ I am perpetually curious — whether exploring a new framework, reading a resear
 ## GitHub Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivanandh10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandh10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivanandh10&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivanandh10&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivanandh10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -335,7 +334,7 @@ I strongly believe that the most valuable growth happens at the intersection of 
         <img src="https://img.shields.io/badge/-Networking-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" />
         &nbsp;Professional Networking
       </h4>
-      <p>Building meaningful, long-term connections with engineers, engineering managers, product leaders, and founders — focused on relationships, not just contacts.</p>
+      <p>Building meaningful, long-term connections with engineers, engineering managers, product leaders, and founders - focused on relationships, not just contacts.</p>
     </td>
   </tr>
 </table>
@@ -352,21 +351,21 @@ Strong engineers are built from more than code. These disciplines sharpen the th
       <div align="center">
         <img src="https://img.shields.io/badge/Chess-0d1117?style=for-the-badge&logo=lichess&logoColor=white" />
         <p><strong>Strategic Thinking</strong></p>
-        <p>Chess cultivates long-horizon thinking, pattern recognition, and the discipline to evaluate trade-offs under pressure — skills that translate directly to architecture decisions and engineering leadership.</p>
+        <p>Chess cultivates long-horizon thinking, pattern recognition, and the discipline to evaluate trade-offs under pressure - skills that translate directly to architecture decisions and engineering leadership.</p>
       </div>
     </td>
     <td width="33%">
       <div align="center">
         <img src="https://img.shields.io/badge/Badminton-0d1117?style=for-the-badge&logo=target&logoColor=white" />
         <p><strong>Focus & Adaptability</strong></p>
-        <p>Shuttle badminton demands split-second decision-making, sustained concentration, and rapid adaptation — qualities that mirror the pace of modern engineering environments.</p>
+        <p>Shuttle badminton demands split-second decision-making, sustained concentration, and rapid adaptation - qualities that mirror the pace of modern engineering environments.</p>
       </div>
     </td>
     <td width="33%">
       <div align="center">
         <img src="https://img.shields.io/badge/Reading-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" />
         <p><strong>Continuous Learning</strong></p>
-        <p>Reading about technology trends, product companies, and engineering culture keeps perspective broad and thinking sharp — essential for building products that matter.</p>
+        <p>Reading about technology trends, product companies, and engineering culture keeps perspective broad and thinking sharp - essential for building products that matter.</p>
       </div>
     </td>
   </tr>
@@ -393,29 +392,25 @@ Strong engineers are built from more than code. These disciplines sharpen the th
 ## Coding Activity
 
 <!--
-  WakaTime Widget — requires WakaTime account + VS Code extension configured.
+  WakaTime Widget - requires WakaTime account + VS Code extension configured.
   Replace YOUR_WAKATIME_USERNAME below after setup.
 -->
 
+## Coding Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sivanandh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8892b0&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ---
 
 ## Contribution Snake
 
-<!--
-  Add the following to your repository's GitHub Actions workflow:
-  File: .github/workflows/snake.yml
-  This generates the snake animation automatically.
--->
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sivanandh10/Sivanandh10/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
